@@ -1,7 +1,9 @@
 {
-	{
-		date_created : 12/13/14
-		text : Hello World
-		id : 1
-	}
+	"posts" [
+		{
+			date_created : 12/13/14
+			text : Hello World
+			id : 1
+		}
+	]
 }
