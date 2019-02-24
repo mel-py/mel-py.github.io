@@ -1,9 +1,6 @@
 {
 	"posts" : [
-		{
-			date_created : 12/13/14
-			text : Hello World
-			id : 1
-		}
+			"Hello World",
+			"Today I am glad I didn't sleep in"
 	]
 }
